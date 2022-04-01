@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my Masters Dissertation
 - 🌱 I’m currently studying at Queen Mary University of London
 - 💬 Ask me about my job
-- 📫 How to reach me: ...
+- 📫 How to reach me: instagram.com/wasimekram
 - ⚡ Fun fact: What kind of bear is the best? That's a ridiculous question. False. Black Bear
 <!--
 **wasimekram/wasimekram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
