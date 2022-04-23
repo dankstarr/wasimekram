@@ -44,18 +44,18 @@ Here are some ideas to get you started:
 
 ## 📊 My Github Stats
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasimekram&hide=prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wasimekram&hide=prs&count_private=true&show_icons=true&theme=radical)](#)
 
 ## ✨ Top Languages Card
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasimekram&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasimekram&layout=compact)](#)
 
 
 <br/>
 <br/>
 
 
-[![Wasim's github activity graph](https://activity-graph.herokuapp.com/graph?username=wasimekram&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Wasim's github activity graph](https://activity-graph.herokuapp.com/graph?username=wasimekram&theme=react-dark)](#)
 
 
 <br/>
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ## Connect with me:
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="#">
     <img src="https://komarev.com/ghpvc/?username=wasimekram">
 </a>
 <a href="https://github.com/wasimekram?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
