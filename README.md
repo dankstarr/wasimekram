@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 - 🔭 I’m currently working on my Masters Dissertation
 - 🌱 I’m currently studying at Queen Mary University of London
 - 💬 Ask me about my job
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My website - https://myself.now.sh
+- My website - https://wasimekram.com
 
 ## 🚀 Languages and Tools:
 
